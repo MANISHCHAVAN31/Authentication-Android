@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Authentication App</string>
+    <string name="authentication">Authentication</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="enter_confirm_password">Enter confirm password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="submit">Submit</string>
+    <string name="already_registered">Already registered?</string>
+    <string name="register_here">Register Here</string>
+    <string name="not_registered">Not registered?</string>
+    <string name="sign_in_here">Sign In Here</string>
+</resources>
