@@ -59,6 +59,7 @@
             android:text="@string/submit"
             android:layout_marginTop="20dp"
             android:id="@id/submitBtn"
+            android:onClick="LoginUser"
             />
 
         <TextView
